@@ -1,7 +1,13 @@
+main{
+  max-width: 1280px;
+  width: 80vw;
+  margin: 0 auto
+}
+
 h1 {
   text-align: center;
 }
 
 section{
-  padding: 1rem 2rem;
+  padding: 1rem 0rem;
 }
