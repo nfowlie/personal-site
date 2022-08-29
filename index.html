@@ -13,21 +13,21 @@
   <body class="dark">
     <nav class="navbar">
       <ul class="navbar-nav">
-        <li><a href="#about">About</a></li>
-        <li><a href="#resume">Resume</a></li>
-        <li><a href="#projects">Projects</a></li>
+        <li tabindex="0"><a href="#about">About</a></li>
+        <li tabindex="1"><a href="#resume">Resume</a></li>
+        <li tabindex="2"><a href="#projects">Projects</a></li>
 
         <!-- Dropdown -->
-        <li class="nav-item has-dropdown">
+        <li tagbindex="3" class="nav-item has-dropdown">
           <a data-normalize-hash>Theme</a>
           <ul class="dropdown">
-            <li class="dropdown-item">
+            <li class="dropdown-item" tabindex="4">
               <a id="light" data-normalize-hash>light</a>
             </li>
-            <li class="dropdown-item">
+            <li class="dropdown-item" tabindex="5">
               <a id="dark" data-normalize-hash>dark</a>
             </li>
-            <li class="dropdown-item">
+            <li class="dropdown-item" tabindex="6">
               <a id="solar" data-normalize-hash></a>
             </li>
           </ul>
