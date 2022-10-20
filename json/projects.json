@@ -1,0 +1,19 @@
+{
+	"personal": [
+		{
+			"name": "Tiles",
+			"description": "An auto expanding grid with identically sized squares that produces a tile explosion effect on click.",
+			"siteLink": "https://tiles.fowlie.dev",
+			"repoLink": "https://github.com/nfowlie/tiles",
+			"image": "https://nextcloud.fowlie.dev/s/k9Ztc2tJyHoDk7H/preview"
+		},
+		{
+			"name": "Personal Site",
+			"description": "My personal resume site that showcases projects I have worked on and my skill set.",
+			"siteLink": "/",
+			"repoLink": "https://github.com/nfowlie/personal-site",
+			"image": "https://nextcloud.fowlie.dev/s/be5jXWeBf2L3jWE/preview"
+		}
+	],
+	"professional": []
+}
