@@ -8,6 +8,13 @@
 			"image": "https://nextcloud.fowlie.dev/s/k9Ztc2tJyHoDk7H/preview"
 		},
 		{
+			"name": "Tiles 3D",
+			"description": "An auto expanding grid with identically sized cubes that raise up when hovered.",
+			"siteLink": "https://tiles3d.fowlie.dev",
+			"repoLink": "https://github.com/nfowlie/tiles3d",
+			"image": "https://nextcloud.fowlie.dev/s/8JNR2Yj3NrcNgKD/preview"
+		},
+		{
 			"name": "Personal Site",
 			"description": "My personal resume site that showcases projects I have worked on and my skill set.",
 			"siteLink": "/",

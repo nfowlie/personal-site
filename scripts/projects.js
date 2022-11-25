@@ -1,6 +1,4 @@
-const shadowContainer = document.querySelector('main').shadowRoot;
-
-const projects = shadowContainer.querySelectorAll('.projects');
+projects = shadowContainer.querySelectorAll('.projects');
 
 fetch('/json/projects.json').then((response) => {
 	response.json().then((data) => {
@@ -13,7 +11,7 @@ fetch('/json/projects.json').then((response) => {
 	});
 });
 
-const buildProject = (d) => {
+buildProject = (d) => {
 	const project = document.createElement('div'),
 		title = document.createElement('div'),
 		description = document.createElement('div'),

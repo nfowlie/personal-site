@@ -64,4 +64,4 @@ const router = new Router({
 	},
 });
 
-console.log(router);
+const shadowContainer = document.querySelector('main').shadowRoot;
