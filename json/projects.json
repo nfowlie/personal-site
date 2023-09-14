@@ -5,28 +5,28 @@
 			"description": "An auto expanding grid with identically sized squares that produces a tile explosion effect on click.",
 			"siteLink": "https://tiles.fowlie.dev",
 			"repoLink": "https://github.com/nfowlie/tiles",
-			"image": "https://nextcloud.fowlie.dev/s/otnGaKnwPHKeH7J/preview"
+			"image": "/assets/images/tiles_banner.png"
 		},
 		{
 			"name": "Tiles 3D",
 			"description": "An auto expanding grid with identically sized cubes that raise up when hovered.",
 			"siteLink": "https://tiles3d.fowlie.dev",
 			"repoLink": "https://github.com/nfowlie/tiles3d",
-			"image": "https://nextcloud.fowlie.dev/s/kz3Hp4nQdn5pPPD/preview"
+			"image": "/assets/images/tiles3d_banner.png"
 		},
 		{
 			"name": "Personal Site",
 			"description": "My personal resume site that showcases projects I have worked on and my skill set.",
 			"siteLink": "/",
 			"repoLink": "https://github.com/nfowlie/personal-site",
-			"image": "https://nextcloud.fowlie.dev/s/FHi4k4DQN6Sow5a/preview"
+			"image": "/assets/images/personal_site.png"
 		},
 		{
 			"name": "FlipperZero Animation Tool",
 			"description": "An application for creating custom animations for the FlipperZero.",
 			"siteLink": "https://github.com/nfowlie/flipperzero-animation-tool/releases",
 			"repoLink": "https://github.com/nfowlie/flipperzero-animation-tool",
-			"image": "https://nextcloud.fowlie.dev/s/ZaCqWbx4GKE9D28/preview"
+			"image": "/assets/images/flipperzero_animation_tool.png"
 		}
 	]
 }
