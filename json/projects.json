@@ -3,14 +3,14 @@
 		{
 			"name": "Tiles",
 			"description": "An auto expanding grid with identically sized squares that produces a tile explosion effect on click.",
-			"siteLink": "https://tiles.fowlie.dev",
+			"siteLink": "https://nfowlie.github.io/tiles/",
 			"repoLink": "https://github.com/nfowlie/tiles",
 			"image": "/assets/images/tiles_banner.png"
 		},
 		{
 			"name": "Tiles 3D",
 			"description": "An auto expanding grid with identically sized cubes that raise up when hovered.",
-			"siteLink": "https://tiles3d.fowlie.dev",
+			"siteLink": "https://nfowlie.github.io/tiles3d",
 			"repoLink": "https://github.com/nfowlie/tiles3d",
 			"image": "/assets/images/tiles3d_banner.png"
 		},
@@ -27,6 +27,20 @@
 			"siteLink": "https://github.com/nfowlie/flipperzero-animation-tool/releases",
 			"repoLink": "https://github.com/nfowlie/flipperzero-animation-tool",
 			"image": "/assets/images/flipperzero_animation_tool.png"
+		},
+		{
+			"name": "Pikmin Party",
+			"description": "A web application that plays a Pikmin noise on a random interval.  It adds a small delight to get togethers.",
+			"siteLink": "https://github.com/nfowlie/pikmin-party",
+			"repoLink": "https://github.com/nfowlie/pikmin-party",
+			"image": "/assets/images/pikmin_party.png"
+		},
+		{
+			"name": "Trinity Force Network General Gaming Lootbox",
+			"description": "A site made to celebrate the 100th episode of TFN's General Gaming podcast. On the site you can unlock audio clips of the various news songs throughout its runtime.",
+			"siteLink": "https://nfowlie.github.io/TFNGG/",
+			"repoLink": "https://github.com/nfowlie/TFNGG",
+			"image": "/assets/images/tfngg_news.png"
 		}
 	]
 }
