@@ -23,8 +23,10 @@ buildProject = (d) => {
 	title.classList.add('project-title');
 	description.innerText = d.description;
 	description.classList.add('project-description');
-	link.innerText = 'Repo Link';
-	link.setAttribute('href', d.repoLink);
+	if (d.repoLink) {
+		link.innerText = 'Repo Link';
+		link.setAttribute('href', d.repoLink);
+	}
 	description.append(link);
 	project.append(title, description);
 	project.addEventListener('click', () => {

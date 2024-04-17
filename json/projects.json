@@ -41,6 +41,12 @@
 			"siteLink": "https://nfowlie.github.io/TFNGG/",
 			"repoLink": "https://github.com/nfowlie/TFNGG",
 			"image": "/assets/images/tfngg_news.png"
+		},
+		{
+			"name": "BUNNYWARNING's Personal Site",
+			"description": "Personal site for BUNNYWARNING.  Hosted on Neocities, this site was a complete re-write of his existing personal site to increase performance and allow for responsive design.",
+			"siteLink": "https://bunnywarning.com",
+			"image": "/assets/images/bunnywarning.png"
 		}
 	]
 }
